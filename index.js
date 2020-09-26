@@ -23,3 +23,4 @@ module.exports = {
 // get: x => db.get(x).value()
 // push: (x, y) => db.get(x).push(y).write()
 // has: x => db.has(x).value()
+// ARROW FUNCTION DENEDIGIMDE SEBEPSIZCE HATA VERDI, YERİ DEĞİLMİŞ DEMEKKİ
